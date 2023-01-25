@@ -3,14 +3,18 @@
 <!--
 **jervinguinto/jervinguinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Full Stack Developer currently living in Auckland, New Zealand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started coding back in 2022 when I attended Mission Ready on their Full Stack Developer course.
+
+I am currently enrolled in Mission Ready's Cloud and DevOps Developer course.
+
+
+🏀 Fun Fact #1: I'm a very sporty person who also loves spending time in the kitchen.
+
+🥘 Fun Fact #2: I love eating out and posting my experience through my Instagram account.
+
+
+TECH STACK
+These are the technologies, libraries, languages, and frameworks that I have used through my journey with Mission Ready.
+![image](https://user-images.githubusercontent.com/111819772/214540637-671b64b2-2334-4181-b5c0-90fae41781c1.png)

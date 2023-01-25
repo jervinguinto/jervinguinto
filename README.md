@@ -18,7 +18,7 @@ These are the technologies, libraries, languages, and frameworks that I have use
 ![image](https://user-images.githubusercontent.com/111819772/214542132-c4cb7311-d563-42b9-8714-76ba1d2420dd.png)
 ![image](https://user-images.githubusercontent.com/111819772/214540637-671b64b2-2334-4181-b5c0-90fae41781c1.png)
 ![image](https://user-images.githubusercontent.com/111819772/214542153-396c0320-0e0f-4e7b-a52d-ab7de65d1e3c.png)
-![image](https://user-images.githubusercontent.com/111819772/214542169-5ef3b037-6aef-49f8-90a5-55a66053cae6.png)
+![image](https://user-images.githubusercontent.com/111819772/214542448-380d8b31-f86c-4f14-a3a5-ab75d1142d29.png)
 ![image](https://user-images.githubusercontent.com/111819772/214542223-8ce22e96-a039-4fd8-95f6-0a01bcb5220f.png)
 ![image](https://user-images.githubusercontent.com/111819772/214542246-4a5392ef-ee65-490d-8e98-99b5157b0d61.png)
 ![image](https://user-images.githubusercontent.com/111819772/214542273-19447121-29e5-4796-a621-59dce5c5cd01.png)

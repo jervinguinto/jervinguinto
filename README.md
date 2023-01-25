@@ -1,13 +1,10 @@
-### Hi there 👋
+Hey! I'm @jervinguinto (Jervin Guinto)
 
-<!--
-**jervinguinto/jervinguinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I am a Full Stack Developer currently living in Auckland, New Zealand.
+I'm a Full Stack Developer currently living in Auckland, New Zealand.
 
 I started coding back in 2022 when I attended Mission Ready on their Full Stack Developer course.
 
-I am currently enrolled in Mission Ready's Cloud and DevOps Developer course.
+I'm currently enrolled in Mission Ready's Cloud and DevOps Developer course.
 
 
 🏀 Fun Fact #1: I'm a very sporty person who also loves spending time in the kitchen.

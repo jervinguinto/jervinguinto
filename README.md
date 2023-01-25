@@ -14,7 +14,7 @@ I'm currently enrolled in Mission Ready's Cloud and DevOps Developer course.
 
 TECH STACK
 
-These are the technologies, libraries, languages, and frameworks that I have used through my journey with Mission Ready.
+These are the technologies, libraries, languages, and frameworks that I have used through my journey with Mission Ready and I'm planning to explore and gain more experince in designing databases and cloud platforms like AWS and Microsoft Azure.
 
 ![image](https://user-images.githubusercontent.com/111819772/214542132-c4cb7311-d563-42b9-8714-76ba1d2420dd.png)
 ![image](https://user-images.githubusercontent.com/111819772/214540637-671b64b2-2334-4181-b5c0-90fae41781c1.png)
